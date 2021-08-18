@@ -6,6 +6,10 @@ body {
 .mercury {
     text-align: justify;
     background-color: rgb(146, 146, 81);
-    height: 60%;
+    height: 40%;
     
+}
+
+.venus {
+    height: 60%;
 }
