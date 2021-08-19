@@ -1,2 +1,2 @@
 # ngima
-A mental health app
+A mental health community
