@@ -5,9 +5,9 @@ body {
 
 .mercury {
     text-align: right;
-    background-color: rgb(146, 146, 81);
+    background-color: blueviolet;
     height: 10%;
-    padding: 20px;
+    padding: 0px;
     margin: inherit;
     
 }
