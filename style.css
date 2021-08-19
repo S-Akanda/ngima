@@ -4,16 +4,16 @@ body {
 
 .mercury {
     text-align: right;
-    background-color: blueviolet;
+    background-color: #165a72;
     height: 10%;
     padding: 0px;
     margin: inherit;
-    
+    width: auto;
 }
 
 .venus {
     height: 60%;
     background-color: whitesmoke;
     text-align: center;
-
+    width: auto;
 }
