@@ -4,7 +4,7 @@ body {
 }
 
 .mercury {
-    text-align: justify;
+    text-align: right;
     background-color: rgb(146, 146, 81);
     height: 10%;
     padding: 20px;
@@ -16,5 +16,5 @@ body {
     height: 60%;
     background-color: whitesmoke;
     text-align: center;
-    
+
 }
